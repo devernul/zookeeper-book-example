@@ -1,0 +1,4 @@
+ERROR  : 13:42:21: Ошибка: Error connecting to the server: FATAL:  Peer authentication failed for user "postgres"
+
+ERROR  : 13:44:08: Ошибка: Error connecting to the server: FATAL:  Peer authentication failed for user "postgres"
+
